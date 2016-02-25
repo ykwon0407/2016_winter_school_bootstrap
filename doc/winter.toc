@@ -1,0 +1,7 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@sectionintoc {2}{Nonparametric bootstrap smoothing}{13}{0}{2}
+\beamer@sectionintoc {3}{Take a break}{18}{0}{3}
+\beamer@sectionintoc {4}{Accuracy of the smoothed bootstrap estimates}{22}{0}{4}
+\beamer@sectionintoc {5}{Parametric bootstrap smoothing}{36}{0}{5}
+\beamer@sectionintoc {6}{Discussions}{42}{0}{6}
